@@ -52,21 +52,6 @@ I am currently exploring the space between **low-level systems** and **human-fri
   <img src="https://skillicons.dev/icons?i=python,cpp,go,rust,flask,docker,cmake,linux,git,vscode" alt="Python, C++, Go, Rust, Flask, Docker, CMake, Linux, Git, and VS Code" />
 </p>
 
-## GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kith11&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=f59e0b&text_color=64748b&bg_color=ffffff" alt="Keith's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kith11&layout=compact&hide_border=true&title_color=0ea5e9&text_color=64748b&bg_color=ffffff" alt="Keith's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kith11&hide_border=true&background=ffffff&ring=0ea5e9&fire=f59e0b&currStreakLabel=0f172a&sideLabels=64748b&currStreakNum=0f172a&sideNums=0f172a&dates=94a3b8" alt="Keith's GitHub contribution streak" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kith11&bg_color=ffffff&color=475569&line=0ea5e9&point=f59e0b&area=true&hide_border=true" alt="Keith's GitHub contribution activity graph" />
-</p>
-
 ## Find me
 
 - GitHub: [@kith11](https://github.com/kith11)
