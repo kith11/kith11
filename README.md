@@ -29,10 +29,10 @@ I am currently exploring the space between **low-level systems** and **human-fri
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/kith11/CVIAAR"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=CVIAAR&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="CVIAAR repository card" /></a>
-  <a href="https://github.com/kith11/pinggen-lang"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=pinggen-lang&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="pinggen repository card" /></a>
-  <a href="https://github.com/kith11/Fingerprint_logger"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=Fingerprint_logger&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="Fingerprint logger repository card" /></a>
-  <a href="https://github.com/kith11/Data-image-pipeline"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=Data-image-pipeline&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="Studio ETL image pipeline repository card" /></a>
+  <a href="https://github.com/kith11/CVIAAR"><img src="https://img.shields.io/badge/Python-CVIAAR-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python - CVIAAR" /></a>
+  <a href="https://github.com/kith11/pinggen-lang"><img src="https://img.shields.io/badge/C%2B%2B-pinggen-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ - pinggen" /></a>
+  <a href="https://github.com/kith11/Fingerprint_logger"><img src="https://img.shields.io/badge/Go-Fingerprint%20logger-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go - Fingerprint logger" /></a>
+  <a href="https://github.com/kith11/Data-image-pipeline"><img src="https://img.shields.io/badge/Python-Image%20pipeline-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python - Image pipeline" /></a>
 </p>
 
 <table>
