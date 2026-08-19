@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Keith%20Kith&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20%7C%20Data%20%7C%20Intelligent%20Tools&descAlignY=60&descSize=16" alt="Keith Kith - Systems, Data, and Intelligent Tools" />
+
 # Keith Kith
 
 ### Building practical tools at the intersection of software, data, and intelligent systems.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Computer+vision+%E2%80%A2+ETL+pipelines+%E2%80%A2+network+telemetry;Compiler+experiments+%E2%80%A2+developer+tools+%E2%80%A2+curious+systems" alt="Computer vision, ETL pipelines, network telemetry, compiler experiments, and developer tools" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-kith11-181717?style=flat-square&logo=github)](https://github.com/kith11)
 [![Profile views](https://komarev.com/ghpvc/?username=kith11&style=flat-square&color=0ea5e9)](https://github.com/kith11)
@@ -24,46 +28,21 @@ I am currently exploring the space between **low-level systems** and **human-fri
 
 ## Selected work
 
+<p align="center">
+  <a href="https://github.com/kith11/CVIAAR"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=CVIAAR&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="CVIAAR repository card" /></a>
+  <a href="https://github.com/kith11/pinggen-lang"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=pinggen-lang&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="pinggen repository card" /></a>
+  <a href="https://github.com/kith11/Fingerprint_logger"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=Fingerprint_logger&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="Fingerprint logger repository card" /></a>
+  <a href="https://github.com/kith11/Data-image-pipeline"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kith11&repo=Data-image-pipeline&hide_border=true&title_color=0f172a&text_color=475569&icon_color=0ea5e9&bg_color=f8fafc" alt="Studio ETL image pipeline repository card" /></a>
+</p>
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [CVIAAR](https://github.com/kith11/CVIAAR)
-
-A computer-vision attendance platform with edge processing, liveness detection, cloud synchronization, and an analytical dashboard.
-
-`Python` `OpenCV` `Flask` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [pinggen](https://github.com/kith11/pinggen-lang)
-
-A small compiled programming language with an LLVM IR backend, a CLI toolchain, package workflows, and VS Code editor support.
-
-`C++` `CMake` `LLVM` `Language tooling`
-
-</td>
+<td width="50%" valign="top"><strong>CVIAAR</strong><br />Computer vision, liveness detection, edge processing, and cloud analytics.</td>
+<td width="50%" valign="top"><strong>pinggen</strong><br />A compiled language with LLVM IR, package workflows, and VS Code tooling.</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Fingerprint logger](https://github.com/kith11/Fingerprint_logger)
-
-A Go service for capturing and reviewing network fingerprints, including TCP/IP retrieval and a browser-based dashboard.
-
-`Go` `HTML` `CSS` `Networking`
-
-</td>
-<td width="50%" valign="top">
-
-### [Studio ETL image pipeline](https://github.com/kith11/Data-image-pipeline)
-
-A resilient ETL workflow for validating photos, mapping them to student records, generating web-ready previews, and tracking run diagnostics.
-
-`Python` `Pillow` `Pandas` `ETL`
-
-</td>
+<td width="50%" valign="top"><strong>Fingerprint logger</strong><br />Go-based network fingerprint capture and review with TCP/IP telemetry.</td>
+<td width="50%" valign="top"><strong>Studio ETL pipeline</strong><br />Validated image ingestion, transformations, previews, and run diagnostics.</td>
 </tr>
 </table>
 
@@ -83,6 +62,10 @@ A resilient ETL workflow for validating photos, mapping them to student records,
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kith11&hide_border=true&background=ffffff&ring=0ea5e9&fire=f59e0b&currStreakLabel=0f172a&sideLabels=64748b&currStreakNum=0f172a&sideNums=0f172a&dates=94a3b8" alt="Keith's GitHub contribution streak" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kith11&bg_color=ffffff&color=475569&line=0ea5e9&point=f59e0b&area=true&hide_border=true" alt="Keith's GitHub contribution activity graph" />
+</p>
 
 ## Find me
 
