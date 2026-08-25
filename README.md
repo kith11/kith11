@@ -54,7 +54,6 @@ I am currently exploring the space between **low-level systems** and **human-fri
 
 ## Find me
 
-- GitHub: [@kith11](https://github.com/kith11)
 - Facebook: [@jhon.keithbarrientos](https://www.facebook.com/jhon.keithbarrientos)
 - Instagram: [@dakug_ulo](https://www.instagram.com/dakug_ulo/)
 
