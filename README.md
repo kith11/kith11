@@ -49,7 +49,7 @@ I am currently exploring the space between **low-level systems** and **human-fri
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,zig,go,rust,fastapi,docker,linux,git,vscode" alt="Python, Zig, Go, Rust, FastAPI, Docker, Linux, Git, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,zig,go,rust,fastapi,nodejs,docker,linux,git,vscode" alt="Python, Zig, Go, Rust, FastAPI, Nodejs, Docker, Linux, Git, and VS Code" />
 </p>
 
 ## Find me
