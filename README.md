@@ -6,7 +6,7 @@
 
 ### Building practical tools at the intersection of software, data, and intelligent systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Computer+vision+%E2%80%A2+ETL+pipelines+%E2%80%A2+network+telemetry;Compiler+experiments+%E2%80%A2+developer+tools+%E2%80%A2+curious+systems" alt="Computer vision, ETL pipelines, network telemetry, compiler experiments, and developer tools" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-stack+web+apps+%E2%80%A2+booking+systems+%E2%80%A2+monitoring+APIs;Computer+vision+%E2%80%A2+ETL+pipelines+%E2%80%A2+network+telemetry" alt="Full-stack web apps, booking systems, monitoring APIs, computer vision, ETL pipelines, and network telemetry" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-kith11-181717?style=flat-square&logo=github)](https://github.com/kith11)
 [![Profile views](https://komarev.com/ghpvc/?username=kith11&style=flat-square&color=0ea5e9)](https://github.com/kith11)
@@ -19,37 +19,36 @@
 
 I like turning messy, real-world problems into tools that are useful, inspectable, and built to last. My recent work spans:
 
+- Full-stack web apps: booking systems, commerce MVPs, and monitoring APIs
 - Computer vision and biometric attendance systems
 - Data pipelines that validate, transform, and organize image-heavy workflows
 - Network fingerprinting and HTTP telemetry
-- Language tooling, compilers, and developer experience
 
 I am currently exploring the space between **low-level systems** and **human-friendly software**.
 
 ## Selected work
 
 <p align="center">
-  <a href="https://github.com/kith11/CVIAAR"><img src="https://img.shields.io/badge/Python-CVIAAR-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python - CVIAAR" /></a>
-  <a href="https://github.com/kith11/pinggen-lang"><img src="https://img.shields.io/badge/C%2B%2B-pinggen-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ - pinggen" /></a>
-  <a href="https://github.com/kith11/Fingerprint_logger"><img src="https://img.shields.io/badge/Go-Fingerprint%20logger-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go - Fingerprint logger" /></a>
-  <a href="https://github.com/kith11/Data-image-pipeline"><img src="https://img.shields.io/badge/Python-Image%20pipeline-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python - Image pipeline" /></a>
+  <a href="https://github.com/kith11/Dead-man-heartbeat"><img src="https://img.shields.io/badge/TypeScript-Heartbeat-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript - Heartbeat" /></a>
+  <a href="https://github.com/kith11/jjbrentals"><img src="https://img.shields.io/badge/SvelteKit-JJB%20Rentals-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit - JJB Rentals" /></a>
+  <a href="https://github.com/kith11/Lumina"><img src="https://img.shields.io/badge/React-Lumina-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React - Lumina" /></a>
 </p>
 
 <table>
 <tr>
-<td width="50%" valign="top"><strong>CVIAAR</strong><br />Computer vision, liveness detection, edge processing, and cloud analytics.</td>
-<td width="50%" valign="top"><strong>pinggen</strong><br />A compiled language with LLVM IR, package workflows, and VS Code tooling.</td>
+<td width="50%" valign="top"><strong>Heartbeat</strong><br />Dead-man-switch monitoring API for scheduled jobs. Webhook, email, and Telegram alerts, API keys, and a public status endpoint, on Cloudflare Pages + D1.</td>
+<td width="50%" valign="top"><strong>JJB Rentals</strong><br />Room-rental booking site built with SvelteKit. Guest booking requests, an admin calendar with overlap protection, and Cloudinary-delivered media.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>Fingerprint logger</strong><br />Go-based network fingerprint capture and review with TCP/IP telemetry.</td>
-<td width="50%" valign="top"><strong>Studio ETL pipeline</strong><br />Validated image ingestion, transformations, previews, and run diagnostics.</td>
+<td width="50%" valign="top"><strong>Lumina</strong><br />Commerce MVP built with React, Vite, and Drizzle ORM over Postgres, deployed on Vercel.</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,zig,go,rust,fastapi,nodejs,docker,linux,git,vscode" alt="Python, Zig, Go, Rust, FastAPI, Nodejs, Docker, Linux, Git, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,svelte,python,go,rust,postgres,nodejs,docker,git,vscode" alt="TypeScript, JavaScript, React, Svelte, Python, Go, Rust, Postgres, Nodejs, Docker, Git, and VS Code" />
 </p>
 
 ## Find me
