@@ -20,9 +20,8 @@
 I like turning messy, real-world problems into tools that are useful, inspectable, and built to last. My recent work spans:
 
 - Full-stack web apps: booking systems, commerce MVPs, and monitoring APIs
-- Computer vision and biometric attendance systems
-- Data pipelines that validate, transform, and organize image-heavy workflows
-- Network fingerprinting and HTTP telemetry
+- Data pipelines that validate, transform, and organize workflows
+- Custom softwares that tailor your needs
 
 I am currently exploring the space between **low-level systems** and **human-friendly software**.
 
