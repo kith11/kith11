@@ -47,7 +47,7 @@ I am currently exploring the space between **low-level systems** and **human-fri
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,svelte,python,go,rust,postgres,nodejs,docker,git,vscode" alt="TypeScript, JavaScript, React, Svelte, Python, Go, Rust, Postgres, Nodejs, Docker, Git, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,svelte,python,go,rust,postgres,nodejs,docker,git,vscode" alt="JavaScript, Svelte, Python, Postgres, Nodejs, Docker, Git, and VS Code" />
 </p>
 
 ## Find me
