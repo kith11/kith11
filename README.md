@@ -6,7 +6,7 @@
 
 ### Building practical tools at the intersection of software, data, and intelligent systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-stack+web+apps+%E2%80%A2+booking+systems+%E2%80%A2+monitoring+APIs;Computer+vision+%E2%80%A2+ETL+pipelines+%E2%80%A2+network+telemetry" alt="Full-stack web apps, booking systems, monitoring APIs, computer vision, ETL pipelines, and network telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-stack+web+apps+%E2%80%A2+booking+systems+%E2%80%A2+monitoring+APIs;Computer+vision+%E2%80%A2+ETL+pipelines+%E2%80%A2+network+telemetry" alt="Full-stack web apps, booking systems, monitoring APIs, ETL pipelines, and Custom Softwares" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-kith11-181717?style=flat-square&logo=github)](https://github.com/kith11)
 [![Profile views](https://komarev.com/ghpvc/?username=kith11&style=flat-square&color=0ea5e9)](https://github.com/kith11)
