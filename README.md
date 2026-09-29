@@ -47,7 +47,8 @@ I am currently exploring the space between **low-level systems** and **human-fri
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,svelte,python,polars,postgres,nodejs,docker,git,vscode" alt="JavaScript, Svelte, Python, Polars, Postgres, Nodejs, Docker, Git, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=javascript,svelte,python,postgres,nodejs,docker,git,vscode" alt="JavaScript, Svelte, Python, Postgres, Nodejs, Docker, Git, and VS Code" />
+  <img src="https://img.shields.io/badge/Polars-black?style=for-the-badge&logo=polars&logoColor=CD792C" alt="Polars" />
 </p>
 
 ## Find me
